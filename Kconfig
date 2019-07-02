@@ -1,0 +1,7 @@
+
+config EXTERNAL_LIBMODBUS
+  bool "LIBMODBUS Library"
+  default n
+  ---help---
+  Modbus library for communicating with external devices
+  
